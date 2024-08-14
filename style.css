@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+*{
+  font-family: 'Anta', sans-serif;
+}
+
+h1 {
+    color: #0056b3;
+    font-size: 52px;
+}
+
+
+input[type="text"], input[type="number"], input[type="date"], input[type="checkbox"], button {
+    margin: 5px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+button {
+    background-color: #0056b3;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004080;
+}
+
+.checkbox-container {
+    margin-bottom: 10px;
+}
+
+.checkbox-label {
+    font-weight: bold;
+}
+
+.plotly-graph-div {
+    margin-top: 20px;
+}

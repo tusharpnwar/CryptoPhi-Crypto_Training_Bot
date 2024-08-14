@@ -1,0 +1,8 @@
+streamlit
+pandas
+yfinance
+joblib
+statsmodels
+numpy
+plotly
+openai==1.3.2
